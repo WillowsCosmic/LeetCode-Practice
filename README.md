@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
