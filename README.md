@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/WillowsCosmic/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
